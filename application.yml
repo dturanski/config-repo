@@ -1,6 +1,6 @@
 
 info:
-  foo: zoom
+  foo: zook
 logging:
    level:
       com.example: INFO
