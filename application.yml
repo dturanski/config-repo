@@ -3,5 +3,5 @@ info:
   foo: zoo
 logging:
    level:
-      com.example: INFO
+      com.example: DEBUG
   
