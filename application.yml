@@ -1,6 +1,6 @@
 
 info:
-  foo: hi from github
+  foo: some value
 logging:
    level:
       com.example: DEBUG
