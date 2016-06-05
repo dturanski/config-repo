@@ -1,6 +1,6 @@
 
 info:
-  foo: some value
+  foo: some new value
 logging:
    level:
       com.example: DEBUG
